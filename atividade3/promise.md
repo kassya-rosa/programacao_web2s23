@@ -14,7 +14,7 @@ Uma Promise pode estar em um dos três estados:
 * Pending (pendente): a operação ainda não foi concluída.
 * Resolved (resolvida): a operação foi concluída com sucesso.
 * Rejected (rejeitada): a operação falhou.
-* 
+  
 Quando resolvida ou rejeitada, o método <i>then</i> será chamado para "lidar" com a saída e pode ser mais de um <i>then</i>.
 
 O método <i>then</i> aceita até dois argumentos; o primeiro argumento é uma função de retorno de chamada para o caso cumprido da promise e o segundo argumento é uma função de retorno de chamada para o caso rejeitado. Cada <i>then</i> retorna um objeto de promise recém-gerado, que pode ser usado opcionalmente para encadeamento.
