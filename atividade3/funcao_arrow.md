@@ -1,13 +1,14 @@
 ### Função arrow
 #### O que é?
-<p> É uma função recente, foi introduzida na versão do JavaScript de 2015, uma forma mais concisa de escrever funções do que a tradicional, usando a palavra-chave <i><b>function</b></i>. </p>
-<p> O símbolo é uma seta (arrow em inglês) formada pelo sinal de igual e o sinal de maior "=>".</p>
+É uma função recente, foi introduzida na versão do JavaScript de 2015, uma forma mais concisa de escrever funções do que a tradicional, usando a palavra-chave <i><b>function</b></i>.
+O símbolo é uma seta (arrow em inglês) formada pelo sinal de igual e o sinal de maior "=>".
+
 #### Como funciona?
 <p> O corpo da função pode ser uma expressão, que é o valor de retorno implícito da função, ou um bloco de código, que requer uma declaração explícita de retorno</p>
 <p> Abaixo um exemplo de <i><b>function</b></i> e como seria o código com a arrow function: </p>
 ##### Retorno implícito
 <p></p>
-!(https://github.com/kassya-rosa/programacao_web2s23/blob/main/atividade3/exemplo_seta_funcao.png)
+![exemplo_seta_funcao](https://github.com/kassya-rosa/programacao_web2s23/assets/81445258/071c1a4a-3147-4a26-a0ee-c3fc2919a9a4)
 <p></p>
 <p>As funções arrow têm as seguintes funcionalidades:</p>
 * São mais concisas do que as funções tradicionais.
